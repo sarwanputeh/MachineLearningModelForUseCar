@@ -11,3 +11,11 @@ Context of the Dataset
 
 Content of the Dataset
 "ชุดข้อมูลที่สะอาดประกอบด้วยข้อมูลราคา เกียร์ ระยะทาง ประเภทเชื้อเพลิง ภาษีถนน ไมล์ต่อแกลลอน (mpg) และขนาดเครื่องยนต์ ฉันได้ลบรายการที่ซ้ำกันและล้างคอลัมน์แล้ว แต่รวมสมุดบันทึกที่แสดงกระบวนการ และข้อมูลเดิมสำหรับทุกท่านที่ต้องการตรวจสอบ/ปรับปรุงงานของผม
+
+
+Data Set
+
+https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
+
+EDA
+https://www.kaggle.com/code/datapple/eda-full-uk-used-cars-analyse-visualization/notebook
